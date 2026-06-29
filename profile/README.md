@@ -1,7 +1,7 @@
 <p align="center"><img src="https://store.setapp.com/cdn-cgi/image/width=384,quality=75,format=auto/app/155/47497/icon-1781854879-6a34f29fc7da0.png" width="100" alt="Dropzone icon"/></p>
 <h1 align="center">Dropzone — Drag-And-Drop Productivity</h1>
 <p align="center">Professional-grade drag-and-drop productivity — powerful features, native performance underneath.</p>
-<p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/drag-and-drop_productivity-blue?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-orange?style=flat-square"/></p>
+<p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/drag-drop_productivity-blue?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-orange?style=flat-square"/></p>
 
 ---
 
